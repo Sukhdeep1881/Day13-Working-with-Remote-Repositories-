@@ -1,0 +1,10 @@
+error.log
+*.log
+# block all dir/
+/Dir/ 
+# /Dir/ #this is used to block track only outside
+# for specific folder
+static/Dir
+# reading
+randomly added something
+1
